@@ -1,3 +1,4 @@
+
 # 📕 Ainur's Portfolio
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
@@ -10,6 +11,14 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Data Engineering](#data-engineering)
 
 
+# Machine Learning
+
+| Project Link | Area | Project Description | Libraries |    
+|---|---|---|---|
+| 💳 [Credit Card Fraud Detection](https://github.com/ainurasyikin/Machine-Learning-Project/blob/main/Project%202%20Credit%20Card%20Fraud%20Detection%20using%20Logistic%20Regression.ipynb) | Data Wrangling & EDA | I build a predictive model to detect fraudulent transactions using Logistic Regression on a highly imbalanced dataset. | pandas, numpy, sklearn |  
+| 💳 [Kaggle Competition House Prices](https://github.com/ainurasyikin/Machine-Learning-Project/blob/main/PROJECT%201%20%20Kaggle%20Competition%20House%20Prices.ipynb) | Data Wrangling & EDA | I use Advanced Regression Techniques to model house price predictions. | pandas, numpy, matplotlib, seaborn, sklearn, xgboost |  
+
+***
 
 # SQL
 
