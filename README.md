@@ -35,4 +35,14 @@ Python
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-|🎬 [Netflix Movies and TV Shows ](https://github.com/ainurasyikin/Python/blob/main/Data%20Cleaning%20Netflix.ipynb) | Data cleaning | I clean the data and discover insights on top 10 genre, ratings, duration, total movies and tv shows. | pandas, numpy | 
+|🎬 [Netflix Movies and TV Shows](https://github.com/ainurasyikin/Python/blob/main/Data%20Cleaning%20Netflix.ipynb) | Data cleaning | I clean the data and discover insights on top 10 genre, ratings, duration, total movies and tv shows. | pandas, numpy | 
+***
+
+# Tableau
+
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
+|🎬 [Netflix Movies and TV Shows]() | I clean the data and discover insights on top 10 genre, ratings, duration, total movies and tv shows. | [Dashboard](https://public.tableau.com/app/profile/ainur.asyikin/viz/Netflix_16792884503100/NETFLIX) |
+
+
+***
