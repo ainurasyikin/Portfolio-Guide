@@ -36,6 +36,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 |🎬 [Netflix Movies and TV Shows](https://github.com/ainurasyikin/Python/blob/main/Data%20Cleaning%20Netflix.ipynb) | Data cleaning | I clean the data and discover insights on top 10 genre, ratings, duration, total movies and tv shows. | pandas, numpy | 
+
 ***
 
 # Tableau
@@ -44,5 +45,11 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 |---|---|---|
 |🎬 [Netflix Movies and TV Shows]() | I clean the data and discover insights on top 10 genre, ratings, duration, total movies and tv shows. | [Dashboard](https://public.tableau.com/app/profile/ainur.asyikin/viz/Netflix_16792884503100/NETFLIX) |
 
-
 ***
+
+# Power BI
+
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
+|🦄 Unicorn Companies Analysis | Created visualizations in Pawer BI to showcase key insights, such as number of companies by industries, total of companies by year, average of unicorn companies. | [Dashboard](https://github.com/ainurasyikin/Power-BI-Dashboard) |
+
