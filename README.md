@@ -49,7 +49,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # Power BI
 
-| Project Link | Project Description | Dashboard Link |
+| Project | Project Description | Dashboard Link |
 |---|---|---|
 |🦄 Unicorn Companies Analysis | Created visualizations in Power BI to showcase key insights, such as number of companies by industries, total of companies by year, average of unicorn companies. | [Dashboard](https://github.com/ainurasyikin/Power-BI-Dashboard) |
 
